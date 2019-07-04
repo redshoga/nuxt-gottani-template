@@ -19,6 +19,8 @@
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 - Atomic Design Directory Structure
   - `~/components/...`
+- SCSS Support
+  - `node-sass`, `sass-loader`
 
 ## Build Setup
 
