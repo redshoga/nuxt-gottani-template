@@ -34,8 +34,18 @@ export default {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
-    '@nuxtjs/eslint-module'
+    '@nuxtjs/eslint-module',
+    '@nuxtjs/style-resources'
   ],
+  /*
+   ** Nuxt Style Resources
+   ** https://github.com/nuxt-community/style-resources-module
+   */
+  styleResources: {
+    sass: ['~/assets/scss/variables.scss']
+    // less: [],
+    // stylus: []
+  },
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
