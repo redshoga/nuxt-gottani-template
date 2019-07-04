@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "path-autocomplete.pathMappings": {
+    "~": "${folder}",
+    "@": "${folder}"
+  },
+  // https://github.com/vuejs/vetur/blob/master/docs/linting-error.md
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "editor.formatOnSave": true,
+  // https://stackoverflow.com/questions/47834825/in-vs-code-disable-error-comments-are-not-permitted-in-json
+  "files.associations": {
+    ".json": "jsonc"
+  }
+}
