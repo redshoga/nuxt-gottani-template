@@ -36,6 +36,10 @@
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
+## TODO
+- [ ] https://qiita.com/potato4d/items/5e267b828cfaba2ac960
+- [ ] https://github.com/prettier/eslint-plugin-prettier/issues/114
+
 ## Build Setup
 
 ``` bash
