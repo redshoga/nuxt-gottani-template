@@ -2,6 +2,12 @@
 
 > My stellar Nuxt.js project
 
+## What is "gottani"
+
+**ごった煮[gottani]**
+
+(n) various foods cooked together,hodgepodge,hotchpotch,mulligan stew
+
 ## Features
 - Initial Options (`npx create-nuxt-app nuxt-gottani-template`)
   - ```
