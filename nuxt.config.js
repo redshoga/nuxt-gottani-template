@@ -58,6 +58,12 @@ export default {
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {}
+    extend(config, ctx) {
+      if (ctx.isDev && ctx.isClient) {
+        // For VSCode Debugging
+        // https://qiita.com/keiichi-hikita/items/e4b788a1d39aa88b46e3
+        config.devtool = 'inline-cheap-module-source-map'
+      }
+    }
   }
 }

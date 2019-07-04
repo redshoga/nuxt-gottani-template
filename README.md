@@ -24,6 +24,9 @@
 - Nuxt Style Resources
   - Share variables, mixins, functions across all style files (no @import needed)
   - [`@nuxtjs/style-resources`](https://github.com/nuxt-community/style-resources-module)
+- VSCode Settings
+- VSCode Debugging
+  - https://qiita.com/keiichi-hikita/items/e4b788a1d39aa88b46e3
 
 ## Build Setup
 
