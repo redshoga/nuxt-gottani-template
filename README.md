@@ -16,6 +16,7 @@
     ? Choose test framework Jest
     ? Choose rendering mode Single Page App
     ```
+- [Normalize.css](https://necolas.github.io/normalize.css/)
 
 ## Build Setup
 
