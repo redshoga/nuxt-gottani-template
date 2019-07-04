@@ -28,6 +28,14 @@
 - VSCode Debugging
   - https://qiita.com/keiichi-hikita/items/e4b788a1d39aa88b46e3
 
+## Recommend VSCode Extensions
+
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
 ## Build Setup
 
 ``` bash
