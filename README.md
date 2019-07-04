@@ -2,6 +2,21 @@
 
 > My stellar Nuxt.js project
 
+## Features
+- Initial Options (`npx create-nuxt-app nuxt-gottani-template`)
+  - ```
+    ? Project name nuxt-gottani-template
+    ? Project description My perfect Nuxt.js project
+    ? Author name redshoga
+    ? Choose the package manager Yarn
+    ? Choose UI framework None
+    ? Choose custom server framework None (Recommended)
+    ? Choose Nuxt.js modules Axios
+    ? Choose linting tools Prettier
+    ? Choose test framework Jest
+    ? Choose rendering mode Single Page App
+    ```
+
 ## Build Setup
 
 ``` bash
